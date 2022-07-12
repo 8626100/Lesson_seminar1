@@ -1,0 +1,15 @@
+C:\GeekB\Seminar\Task_8\bin\Debug\net6.0\Task_8.exe
+C:\GeekB\Seminar\Task_8\bin\Debug\net6.0\Task_8.deps.json
+C:\GeekB\Seminar\Task_8\bin\Debug\net6.0\Task_8.runtimeconfig.json
+C:\GeekB\Seminar\Task_8\bin\Debug\net6.0\Task_8.dll
+C:\GeekB\Seminar\Task_8\bin\Debug\net6.0\Task_8.pdb
+C:\GeekB\Seminar\Task_8\obj\Debug\net6.0\Task_8.csproj.AssemblyReference.cache
+C:\GeekB\Seminar\Task_8\obj\Debug\net6.0\Task_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekB\Seminar\Task_8\obj\Debug\net6.0\Task_8.AssemblyInfoInputs.cache
+C:\GeekB\Seminar\Task_8\obj\Debug\net6.0\Task_8.AssemblyInfo.cs
+C:\GeekB\Seminar\Task_8\obj\Debug\net6.0\Task_8.csproj.CoreCompileInputs.cache
+C:\GeekB\Seminar\Task_8\obj\Debug\net6.0\Task_8.dll
+C:\GeekB\Seminar\Task_8\obj\Debug\net6.0\refint\Task_8.dll
+C:\GeekB\Seminar\Task_8\obj\Debug\net6.0\Task_8.pdb
+C:\GeekB\Seminar\Task_8\obj\Debug\net6.0\Task_8.genruntimeconfig.cache
+C:\GeekB\Seminar\Task_8\obj\Debug\net6.0\ref\Task_8.dll
